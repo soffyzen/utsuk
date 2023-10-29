@@ -1,6 +1,6 @@
 ---
 title: A Pond and a Blackbird
-description: Memoir
+description: My mother burst into tears when her sister hugged her by the door.
 author: Utsuk Upreti
 date: 2023-10-29T14:33:37.479Z
 tags:
