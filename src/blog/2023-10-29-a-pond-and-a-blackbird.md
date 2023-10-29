@@ -5,6 +5,7 @@ author: Utsuk Upreti
 date: 2023-10-29T14:33:37.479Z
 tags:
   - post
+  - featured
 image: /assets/blog/mami.jpg
 imageAlt: mami
 ---
