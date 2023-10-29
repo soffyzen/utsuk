@@ -1,6 +1,6 @@
 ---
 title: My Second Article
-author: Utsuk Upreti
+author: Utsuk Upretii
 date: 2021-05-15
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test
