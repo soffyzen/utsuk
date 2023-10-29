@@ -3,7 +3,7 @@ title: He Who Cleans My Glasses
 description: I put my glasses on a nightstand before I sleep. My father silently
   enters my room with feather footsteps, picks up my glasses, cleans them with
   his microfiber cloth, and puts them back.
-author: Stuti Bidari
+author: Anirudh Bidari
 date: 2023-10-29T15:04:11.953Z
 tags:
   - post
