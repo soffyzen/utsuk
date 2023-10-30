@@ -386,3 +386,63 @@ section,
   background-color: var(--clr-neutral-900);
 }
 
+/* Style for Submission Text Section */
+.submission-text {
+  background-color:var(--clr-primary-200);
+  padding: 30px;
+  text-align: center;
+}
+
+.submission-text h1 {
+  font-size: 36px;
+  color: var(--clr-primary-500);
+  margin-bottom: 20px;
+}
+
+.submission-text p {
+  font-size: 18px;
+  color: #000000;
+  line-height: 35px;
+}
+
+/* Style for Submission Guidelines Section */
+.submission-guidelines {
+  padding: 30px;
+}
+
+.submission-guidelines h1 {
+  font-size: 36px;
+  color: var(--clr-primary-500);
+  margin-bottom: 20px;
+}
+
+.submission-guidelines ol {
+  font-size: 18px;
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 20px;
+  margin-left: 0;
+}
+
+.submission-guidelines ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-left: 20px;
+}
+
+.submission-guidelines li {
+  margin-bottom: 10px;
+}
+
+.submission-guidelines a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.submission-guidelines a:hover {
+  text-decoration: underline;
+}
+
+.about-website{
+  text-align: justify;
+}

@@ -8,6 +8,7 @@ tags:
   - featured
 image: /assets/blog/mami.jpg
 imageAlt: mami
+to: His Mother
 ---
 My mother burst into tears when her sister hugged her by the door. I watched her fearless arms slowly coiling around my mother and forming a small, special pond where she could spill all her tears, while I stood nearby, feeling nervous and regretful. Why didn’t I have arms as dutiful and fearless as hers? Why couldn’t I hug my mother? <i>I will…later. </i>
 
