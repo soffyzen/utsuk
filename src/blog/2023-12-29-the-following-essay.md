@@ -5,7 +5,7 @@ author: Shuvam Prasai
 to: Father
 tags:
   - post
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreesvg.org%2Fangry-father-vector-illustration&psig=AOvVaw0ifjrSC0eB1gK_UZfCPZ0e&ust=1703944107914000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiNmtHktIMDFQAAAAAdAAAAABAD
+image: /assets/blog/angryfather.png
 ---
 I wondered if every drop of liquor sliding down my father's throat had reached his
 
