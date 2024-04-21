@@ -1,14 +1,15 @@
 ---
-title: A Pond and a Blackbird
-description: My mother burst into tears when her sister hugged her by the door.
 author: Utsuk Upreti
+imageAlt: mami
 date: 2023-10-29T14:33:37.479Z
+title: A Pond and a Blackbird
+description: She was in the most difficult phase of her life, and I was her son.
+  I could have done better.
+to: His Mother
 tags:
   - post
   - featured
-image: /assets/blog/mami.jpg
-imageAlt: mami
-to: His Mother
+image: /assets/blog/2f684923d804a1b111d53f29967e7aea.jpg
 ---
 My mother burst into tears when her sister hugged her by the door. I watched her fearless arms slowly coiling around my mother and forming a small, special pond where she could spill all her tears, while I stood nearby, feeling nervous and regretful. Why didn’t I have arms as dutiful and fearless as hers? Why couldn’t I hug my mother? <i>I will…later. </i>
 
