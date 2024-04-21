@@ -1,16 +1,16 @@
 ---
+author: Anirudh Bidari
+imageAlt: Stuti with her baba
+date: 2023-10-29T15:04:11.953Z
 title: He Who Cleans My Glasses
 description: I put my glasses on a nightstand before I sleep. My father silently
   enters my room with feather footsteps, picks up my glasses, cleans them with
   his microfiber cloth, and puts them back.
-author: Anirudh Bidari
-date: 2023-10-29T15:04:11.953Z
+to: His Father
 tags:
   - post
   - featured
-image: /assets/blog/hj.png
-imageAlt: Stuti with her baba
-to: His Father
+image: /assets/blog/fathers-day.jpg
 ---
 I put my glasses on a nightstand before I sleep. My father silently enters my room with feather footsteps, picks up my glasses, cleans them with his microfiber cloth, and puts them back. He does this every night after he thinks I’ve fallen asleep. But I watch him, cleaning them constantly until the last remaining, barely noticeable dirt is gone off the lenses. My father scrubbed my skin during the shower till I was 13. He used to start with my left hand, then my stomach, right hand, neck, back, left leg, right leg, and toes. Now, I am 200 km away from my father. But I can see him still coming to my room every night and cleaning my glasses.
 
